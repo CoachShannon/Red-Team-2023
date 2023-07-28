@@ -19,8 +19,20 @@ rate = float(input('What is your hourly rate? '))
 print('Last month, you earned', hours * rate ,'dollars')
 
 #people always want to know how much a job is paying before they get the job
-hourly_rate = float(input('How much they paying?'))
-working_hours_in_a_week = 40
-weeks_in_a_year = 52
-yearly_pay = (hourly_rate, working_hours_in_a_week, weeks_in_a_year)
-print("$", (yearly_pay))
+#hourly_rate = float(input('How much they paying?'))
+#working_hours_in_a_week = 40
+#weeks_in_a_year = 52
+#yearly_pay = float(hourly_rate, working_hours_in_a_week, weeks_in_a_year)
+#print("$", (yearly_pay))
+
+#back to work
+5 + 7
+5 - 7
+(2 + 3) * 2
+2 ** 3 ** 8
+
+print('Good morniing!', end='~')
+print('Shannon here.')
+
+first_name ='Shannon'
+print('Your first name is', first_name, 'hello!', sep=' $ ')
