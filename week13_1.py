@@ -15,3 +15,4 @@ print(top_cities)
 top_cities = ["New York City", "Los Angeles", "Boston", "Nashville", "singapore", "Charlotte"]
 del top_cities
 print(top_cities)
+

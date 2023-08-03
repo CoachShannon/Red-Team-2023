@@ -7,4 +7,4 @@ city_5 = "Charlotte"
 empty_list = []
 top_cities = ["New York City", "Los Angeles", "Boston", "Nashville", "Charlotte"]
 print(top_cities)
-print(top_cities[0])
+print(top_cities[2])
