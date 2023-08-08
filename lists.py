@@ -20,5 +20,3 @@ print(dir(var2))
 
 var2.reverse()
 print(var2)
-
-var3 + [0, 1, 2, 3, 4, 5]
