@@ -22,7 +22,8 @@ show_truth()
 print(mysterious_var)
 
 
-
+#be careful when using append, del, sort on functions. You could accidently
+#change a global function.
 def show_truth():
     mysterious_var.append('New Surprise!')
     print(mysterious_var)
